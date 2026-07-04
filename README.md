@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ams73
-- 👀 I’m interested in Cloud and related automations
-- 🌱 I’m currently learning AWS, CI-CD
-- 💞️ I’m looking to collaborate on any simple project related to AWS cloud
+- 👀 I’m interested in Cloud and onprem infrastructure automations
+- 🌱 I’m currently learning AWS, CI-CD, AI assisted automation
+- 💞️ I’m looking to collaborate on any simple infrastructure project
 - 📫 How to reach me > anindras@gmail.com
 
 <!---
